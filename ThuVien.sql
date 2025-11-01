@@ -4,5 +4,5 @@
     publish DATE,                    
     author NVARCHAR(150),            
     year INT                         
-);
+);aarf
 GO
